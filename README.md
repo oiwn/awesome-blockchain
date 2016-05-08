@@ -7,6 +7,11 @@ Awesome projects and services based on blockchain technology.
 + https://www.bitrated.com - Reputation management and consumer protection for the Bitcoin ecosystem.
 + https://colony.io Colony makes it easy for people all over the world to build companies together online.
 + https://www.ethereum.org - Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference
++ http://www.hedgy.co - We develop your use case and deliver a smart contract enabled distributed ledger system
+
+## Vote
+
++ http://www.v-initiative.org
 
 ## Exchange
 
@@ -28,8 +33,10 @@ Awesome projects and services based on blockchain technology.
 ## Research frameworks
 
 + https://github.com/ScorexProject/Scorex - Modular blockchain framework. Public domain
++ https://github.com/hyperledger/fabric - The fabric is an implementation of blockchain technology, leveraging familiar and proven technologies. It is a modular architecture allowing pluggable implementations of various function.
 
 ## Reading
 
-+ https://blog.slock.it/announcing-dao-link-the-bridge-between-blockchain-and-brick-and-mortar-companies-9510ba04d236#.am77o37s4
++ https://blog.slock.it/announcing-dao-link-the-bridge-between-blockchain-and-brick-and-mortar-companies-9510ba04d236
 + http://blog.colony.io/the-future-of-work/
++ https://en.bitcoin.it/wiki/Contract
