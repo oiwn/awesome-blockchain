@@ -8,6 +8,14 @@ Awesome projects and services based on blockchain technology.
 + https://colony.io Colony makes it easy for people all over the world to build companies together online.
 + https://www.ethereum.org - Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference
 
+## Exchange
+
++ https://cex.io
++ https://www.okcoin.com
++ https://www.btcc.com
++ https://gatecoin.com
++ https://www.bitfinex.com
+
 ## Job boards
 
 + https://coinality.com - Coinality is a free service connecting Employers and Job Seekers with opportunities that pay in digital currencies such as Bitcoin, Litecoin, and Dogecoin.
