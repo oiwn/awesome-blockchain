@@ -12,6 +12,11 @@ Awesome projects and services based on blockchain technology.
 + https://www.bitrated.com - Reputation management and consumer protection for the Bitcoin ecosystem.
 + https://colony.io Colony makes it easy for people all over the world to build companies together online.
 + http://www.hedgy.co - We develop your use case and deliver a smart contract enabled distributed ledger system
++ https://daohub.org - The DAO’s Mission: To blaze a new path in business organization for the betterment of its members, existing simultaneously nowhere and everywhere and operating solely with the steadfast iron will of unstoppable code.
+
+## Distributed
+
++ http://ipfs.io - The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
 
 ## Vote
 
@@ -20,6 +25,10 @@ Awesome projects and services based on blockchain technology.
 ## Marketplaces
 
 + https://purse.io - Shop the World’s Largest Marketplace for Bitcoin.
+
+## Payment Gates
+
++ https://www.coinpayments.net
 
 ## Exchange
 
