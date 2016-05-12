@@ -13,6 +13,7 @@ Awesome projects and services based on blockchain technology.
 + https://colony.io Colony makes it easy for people all over the world to build companies together online.
 + http://www.hedgy.co - We develop your use case and deliver a smart contract enabled distributed ledger system
 + https://daohub.org - The DAO’s Mission: To blaze a new path in business organization for the betterment of its members, existing simultaneously nowhere and everywhere and operating solely with the steadfast iron will of unstoppable code.
++ https://github.com/ethereum/solidity - The Solidity Contract-Oriented Programming Language
 
 ## Distributed
 
