@@ -38,6 +38,8 @@ Awesome projects and services based on blockchain technology.
 + https://www.btcc.com
 + https://gatecoin.com
 + https://www.bitfinex.com
++ https://www.spicepay.com
++ https://bitpay.com
 
 ## Job boards
 
