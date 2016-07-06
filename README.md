@@ -2,6 +2,10 @@
 
 Awesome projects and services based on blockchain technology.
 
+## Probably worth-coins
+
++ http://www.breakoutcoin.com/the-coin/ - The Breakout Chain payment system is unique in that it supports several currencies, each with different properties. This type of currency system is brand new and is termed a “Multicurrency”. The properties of each currency of the Breakout Chain Multicurrency payment system influence the ways in which the currencies are used.
+
 ## Blockchain Platforms
 
 + https://www.ethereum.org - Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference 
